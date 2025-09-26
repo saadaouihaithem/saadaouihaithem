@@ -1,4 +1,6 @@
 # Hi 👋 I'm Haithem Saadaoui  
+## 🧩 Algorithm Score  
+![Baekjoon Stats](https://github-readme-baekjoon.vercel.app/api?username=yyb400)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/saadaouihacc2017) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@saadaouihaithem2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/saadaouihaithem) 
 
